@@ -1,0 +1,7 @@
+# Mac artifacts
+.DS_Store
+
+# Python artifacts
+.ipynb_checkpoints/
+__pycache__
+*.pyc
