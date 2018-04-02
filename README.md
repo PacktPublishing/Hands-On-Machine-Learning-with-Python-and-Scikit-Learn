@@ -12,14 +12,13 @@ This video course highlights clean coding techniques, object-oriented transforme
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>You will be introduced to four major machine learning libraries. 
-<LI>Go through the installation and environment setup for each of the four libraries 
-<LI>Walk through a simple machine learning example for each library to familiarize yourself 
-<LI>Compare and contrast the libraries and look at their suitability for certain situations. 
-<LI>Understand the Popular C++ ML libraries and when to use them 
-<LI>Know how to install Shark, Dlib, Mlpack, and OpenCV 
-<LI>For each of the four libraries, we will explore the characteristics 
-<LI>Know how to solve Machine Learning problems with C++ </LI></UL></DIV>
+<LI>Split data effectively using the Scikit-Learn package
+<LI>Explore, organize, manipulate, and analyze your data (including some visual and descriptive statistics techniques) 
+<LI>Enhance your model performance using cross-validation 
+<LI> Build and design model pipelines using Scikit-Learn paired with your custom transformers
+<LI>Tune and optimize hyperparameters to select the best model for the job 
+<LI>Persist a model for use in production
+
 
 ## Instructions and Navigation
 ### Assumed Knowledge
