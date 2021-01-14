@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-machine-learning-with-python-and-scikit-learn-video/9781788991056)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On-Machine-Learning-with-Python-and-Scikit-Learn
 Hands-On Machine Learning with Python and Scikit-Learn, published by Packt
 # Hands-On Machine Learning with Python and Scikit-Learn [Video]
